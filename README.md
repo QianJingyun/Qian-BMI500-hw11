@@ -2,8 +2,8 @@
 
 # Machine Learning Assignment HW1
 
-**Name:** Jingyun Qian 
-**Contact:** jingyun.qian@emory.edu  
+**Name:** Jingyun Qian \\
+**Contact:** jingyun.qian@emory.edu  \\
 **Question Selected:** Question 2  
 
 ## Summary of Findings
