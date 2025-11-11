@@ -1,7 +1,5 @@
 # Qian-BMI500-hw11
 
-# Machine Learning Assignment HW1
-
 **Name:** Jingyun Qian \\
 **Contact:** jingyun.qian@emory.edu  \\
 **Question Selected:** Question 2  
