@@ -2,7 +2,11 @@
 
 **Name:** Jingyun Qian \\
 **Contact:** jingyun.qian@emory.edu  \\
-**Question Selected:** Question 2  
+**Question Selected:** Question 2 
+
+
+Link to Github: https://github.com/QianJingyun/Qian-BMI500-hw11/tree/main
+
 
 ## Summary of Findings
 ### Key insights:
