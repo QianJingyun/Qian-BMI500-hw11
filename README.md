@@ -8,7 +8,9 @@
 - Key insights:
   - ...
 - Comparative model performance:
-  - ...
+  - Conducting pandemic simulation with high transmission rate and low recover probability
+  ![Fig 1](Figs/simu1.png)
+
 - Relevance to model-based machine learning:
   - ...
 - Suggestions for future improvements:
