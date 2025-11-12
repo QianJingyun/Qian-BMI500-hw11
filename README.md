@@ -5,7 +5,7 @@
 **Question Selected:** Question 2 
 
 
-Link to Github: https://github.com/QianJingyun/Qian-BMI500-hw11/tree/main
+Link to Github: https://github.com/QianJingyun/Qian-BMI500-hw11/
 
 
 ## Summary of Findings
